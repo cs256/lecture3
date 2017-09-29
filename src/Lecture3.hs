@@ -5,6 +5,8 @@
 
 module Lecture3 where
 
+import Prelude hiding (const, fst, snd)
+
 --------------------------------------------------------------------------------
 -- Examples of typings
 
